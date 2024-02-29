@@ -10,7 +10,7 @@ public class Product { //pascal case
     }
 
     Product(String name, double price, double discount){ //constructor with 3 parameters
-        this.name = name; //this it's the same as self in python
+        this.name = name; //this it's the same as self "in python
         this.price = price;
         this.discount = discount;
     }
